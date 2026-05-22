@@ -1,7 +1,6 @@
 # Fairness-Aware Gender Classification Using ImageNet-Pretrained CNNs
 
 
-
 **Repository:** CNNs_DL-Project  
 **Author:** Gomathi Ramesh  
 **University:** Rice University  
@@ -9,12 +8,7 @@
 **Project Type:** Deep Learning / Fairness in Computer Vision  
 **Course Project:** Ethical Implications in AI-Based Image Classification  
 
-| Item | Details |
-|---|---|
-| Repository | CNNs_DL-Project |
-| Author | Gomathi Ramesh |
-| Project Type | Deep Learning / Fairness in Computer Vision |
-| Course Project | Ethical Implications in AI-Based Image Classification |
+
 
 ## Project Overview
 

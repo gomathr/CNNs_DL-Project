@@ -1,4 +1,5 @@
 # Fairness-Aware Gender Classification Using ImageNet-Pretrained CNNs
+**Deep Learning / Computer Vision Fairness and AI Ethics Project**
 
 
 **Repository:** CNNs_DL-Project  

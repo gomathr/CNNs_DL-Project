@@ -6,6 +6,13 @@
 **Project Type:** Deep Learning / Fairness in Computer Vision  
 **Course Project:** Ethical Implications in AI-Based Image Classification  
 
+| Item | Details |
+|---|---|
+| Repository | CNNs_DL-Project |
+| Author | Ram Vijay |
+| Project Type | Deep Learning / Fairness in Computer Vision |
+| Course Project | Ethical Implications in AI-Based Image Classification |
+
 ## Project Overview
 
 This project analyzes ethical implications in computer vision by comparing three ImageNet-pretrained CNN models—InceptionResNetV2, EfficientNetV2, and ConvNeXt—for gender classification on face images. Beyond overall model accuracy, the project evaluates fairness across race groups using race-stratified accuracy, Demographic Parity Gap, and Equalized Odds Gap.

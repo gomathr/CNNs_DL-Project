@@ -2,6 +2,7 @@
 
 **Repository:** CNNs_DL-Project  
 **Author:** Gomathi Ramesh 
+
 **Project Type:** Deep Learning / Fairness in Computer Vision  
 **Course Project:** Ethical Implications in AI-Based Image Classification  
 

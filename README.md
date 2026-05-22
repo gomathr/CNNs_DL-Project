@@ -1,18 +1,22 @@
-# CNNs_DL-Project
-Deep learning project : Fairness-aware gender classification - comparing three ImageNet-pretrained CNN models—InceptionResNetV2, EfficientNetV2, and ConvNeXt—for gender classification on face images, with fairness analysis across race groups using accuracy, Demographic Parity Gap, and Equalized Odds Gap.
 # Fairness-Aware Gender Classification Using ImageNet-Pretrained CNNs
+
+**Repository:** CNNs_DL-Project  
+**Author:** Gomathi Ramesh 
+**Project Type:** Deep Learning / Fairness in Computer Vision  
+**Course Project:** Ethical Implications in AI-Based Image Classification  
 
 ## Project Overview
 
-This project analyzes ethical implications in computer vision by evaluating gender classification models on face images. The focus is not only on overall model accuracy, but also on fairness across race groups.
+This project analyzes ethical implications in computer vision by comparing three ImageNet-pretrained CNN models—InceptionResNetV2, EfficientNetV2, and ConvNeXt—for gender classification on face images. Beyond overall model accuracy, the project evaluates fairness across race groups using race-stratified accuracy, Demographic Parity Gap, and Equalized Odds Gap.
 
-I implemented and compared three ImageNet-pretrained CNN models:
+As part of the CNN baseline analysis, I implemented and compared three ImageNet-pretrained CNN models:
 
 - InceptionResNetV2
 - EfficientNetV2
 - ConvNeXt
 
-The models were evaluated using both utility metrics and fairness metrics to identify whether model performance differs across demographic subgroups.
+The models were evaluated using both utility metrics and fairness metrics to identify whether model performance differs across demographic subgroups. The fairness analysis includes race-stratified performance, Demographic Parity Gap, and Equalized Odds Gap.
+
 
 ## Project Goal
 
